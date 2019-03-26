@@ -1,4 +1,4 @@
-//I learned how the IF statement works in Javascript. If the IF statement is true, the program executes otherwise the program will not execute.
+//I learned how the IF statement works in Javascript. If the IF statement is true, the program executes otherwise the program will not execute
 // Example
 function ourTrueOrFalse(isItTrue) {
   if (isItTrue) {
